@@ -93,7 +93,7 @@ const TestPage: NextPage = () => {
           )}
         </div>
         <div className='p-4 font-serif text-2xl italic sm:py-8 sm:text-6xl sm:font-light'>
-          {'"Details to Follow"'}
+          {'Details to Follow'}
         </div>
         <div className=' flex flex-row justify-around '>
           <div className='grow py-2 font-mono border-r border-gray-300 border-dotted'>
@@ -104,8 +104,8 @@ const TestPage: NextPage = () => {
           </div>
         </div>
         <div className='py-2 text-xl font-semibold tracking-widest text-gray-50  uppercase bg-gray-800  sm:py-6 sm:text-3xl'>
-          <span className='text-pink-400 border-b-2 border-pink-400/50'>
-            More Info
+          <span className='text-orange-400 border-b-2 border-pink-400/50'>
+            TOP SECRET
           </span>
         </div>
       </div>
